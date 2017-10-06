@@ -50,6 +50,7 @@ frameworks:
   - "JavaBuildpack::Framework::DynatraceAppmonAgent"
   - "JavaBuildpack::Framework::DynatraceOneAgent"
   - "JavaBuildpack::Framework::GoogleStackdriverDebugger"
+  - "JavaBuildpack::Framework::InspectitAgent"
   - "JavaBuildpack::Framework::IntroscopeAgent"
   - "JavaBuildpack::Framework::JavaMemoryAssistant"
   - "JavaBuildpack::Framework::Jmx"
